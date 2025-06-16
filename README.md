@@ -1,11 +1,16 @@
-# 🔐 Advanced Encryption Tool
-
 *COMPANY*:CODTECHIT SOLUTIONS
+
 *NAME*:SHAH MEGH BHAVINKUMAR
+
 *INTERN ID*:CT04DL906
+
 *DOMAIN*:CYBERSECURITY AND ETHICAL HACKING
+
 *DURATION*: 1 MONTH
+
 *MENTOR*:NEELA SANTHOSH KUMAR
+
+# 🔐 Advanced Encryption Tool
 
 A secure file encryption and decryption tool with an attractive user-friendly GUI. This application uses the AES-256 standard to protect your files and offers both encryption and decryption functionality.
 
@@ -23,6 +28,9 @@ A secure file encryption and decryption tool with an attractive user-friendly GU
 - Tkinter (GUI)
 - PyCryptodome (for AES encryption)
 
+## Output
+
+
 ## 📦 Installation
 
 1. Clone the repository:
@@ -30,5 +38,4 @@ A secure file encryption and decryption tool with an attractive user-friendly GU
 ```bash
 git clone https://github.com/Megh1884/Advanced-Encryption-Tool.git
 cd Advanced-Encryption-Tool
-
 
