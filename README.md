@@ -30,6 +30,7 @@ A secure file encryption and decryption tool with an attractive user-friendly GU
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/66f59bea-8165-4796-8767-9da2f8f51902)
 
 ## 📦 Installation
 
